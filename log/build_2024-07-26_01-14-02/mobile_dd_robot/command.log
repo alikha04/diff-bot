@@ -1,0 +1,2 @@
+Invoking command in '/home/siddarth/ws_ddmobile/build/mobile_dd_robot': /usr/bin/cmake --build /home/siddarth/ws_ddmobile/build/mobile_dd_robot -- -j12 -l12
+Invoked command in '/home/siddarth/ws_ddmobile/build/mobile_dd_robot' returned '2': /usr/bin/cmake --build /home/siddarth/ws_ddmobile/build/mobile_dd_robot -- -j12 -l12
